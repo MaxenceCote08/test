@@ -144,7 +144,7 @@ public class Fenetre extends JFrame implements ActionListener
         this.SexeTilt = SexeTilt;
     }
 
-    public Fenetre() 
+    public Fenetre()
     {
         this.TextNom = new UnTexteFieldTresInspirant("Nom");
         this.TextNom.setForeground(Color.GRAY);
